@@ -1,0 +1,11 @@
+/Users/karimmouaddel/Projects/DesignPatterFinalProject/DesignPatterFinalProject/bin/Debug/netcoreapp2.0/DesignPatterFinalProject.deps.json
+/Users/karimmouaddel/Projects/DesignPatterFinalProject/DesignPatterFinalProject/bin/Debug/netcoreapp2.0/DesignPatterFinalProject.runtimeconfig.json
+/Users/karimmouaddel/Projects/DesignPatterFinalProject/DesignPatterFinalProject/bin/Debug/netcoreapp2.0/DesignPatterFinalProject.runtimeconfig.dev.json
+/Users/karimmouaddel/Projects/DesignPatterFinalProject/DesignPatterFinalProject/bin/Debug/netcoreapp2.0/DesignPatterFinalProject.dll
+/Users/karimmouaddel/Projects/DesignPatterFinalProject/DesignPatterFinalProject/bin/Debug/netcoreapp2.0/DesignPatterFinalProject.pdb
+/Users/karimmouaddel/Projects/DesignPatterFinalProject/DesignPatterFinalProject/obj/Debug/netcoreapp2.0/DesignPatterFinalProject.csprojResolveAssemblyReference.cache
+/Users/karimmouaddel/Projects/DesignPatterFinalProject/DesignPatterFinalProject/obj/Debug/netcoreapp2.0/DesignPatterFinalProject.csproj.CoreCompileInputs.cache
+/Users/karimmouaddel/Projects/DesignPatterFinalProject/DesignPatterFinalProject/obj/Debug/netcoreapp2.0/DesignPatterFinalProject.AssemblyInfoInputs.cache
+/Users/karimmouaddel/Projects/DesignPatterFinalProject/DesignPatterFinalProject/obj/Debug/netcoreapp2.0/DesignPatterFinalProject.AssemblyInfo.cs
+/Users/karimmouaddel/Projects/DesignPatterFinalProject/DesignPatterFinalProject/obj/Debug/netcoreapp2.0/DesignPatterFinalProject.dll
+/Users/karimmouaddel/Projects/DesignPatterFinalProject/DesignPatterFinalProject/obj/Debug/netcoreapp2.0/DesignPatterFinalProject.pdb

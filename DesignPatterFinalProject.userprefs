@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E40F8086-200D-4AAB-B25C-01D3AF56A96A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterFinalProject/Program.cs">
+    <Files>
+      <File FileName="DesignPatterFinalProject/Weapon.cs" Line="19" Column="9" />
+      <File FileName="DesignPatterFinalProject/Wall.cs" Line="8" Column="10" />
+      <File FileName="DesignPatterFinalProject/Program.cs" Line="7" Column="35" />
+      <File FileName="DesignPatterFinalProject/Case.cs" Line="30" Column="34" />
+      <File FileName="DesignPatterFinalProject/Labyrinth.cs" Line="36" Column="156" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DesignPatterFinalProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
